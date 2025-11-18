@@ -50,7 +50,7 @@ Backend(todo-api)/
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/im-akash-prajapati-1/todo-api.git
+   https://github.com/im-akash-prajapati-1/YourDOST-Assignment
    cd backend
    
 2. **Install dependencies**
