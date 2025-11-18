@@ -57,7 +57,7 @@ frontend(user-directory)/
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/im-akash-prajapati-1/user-directory.git
+   https://github.com/im-akash-prajapati-1/YourDOST-Assignment
    cd frontend
    
 2. **Install dependencies**
@@ -81,3 +81,4 @@ Returns
 - first_name
 - last_name
 - Avatar
+
